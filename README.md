@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Urvashi A. Vaghasiya</h1>
 <h3 align="center">A passionate fullstck developer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/urvashivaghasiya/urvashivaghasiya/main/greeting.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/urvashivaghasiya/urvashivaghasiya/main/greeting.gif">
 
 
 
